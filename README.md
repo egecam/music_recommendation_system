@@ -1,6 +1,6 @@
 # Music Recommendation System
 
-A Python desktop application to make predictions about wether a user will like or dislike a song.
+A Python application which makes predictions on whether a user would like or dislike a song.
 
 ## Description
 
